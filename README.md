@@ -94,7 +94,6 @@ Use case diagrams represent the interactions between users and the system. They 
 - Forms the basis for test cases
 
 ![Use Case Diagram](alx-booking-uc.png)
-
 ---
 
 ## Acceptance Criteria
